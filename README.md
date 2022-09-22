@@ -1,6 +1,6 @@
 <div align="center">
 <h1> 🛒 <a href="https://carlos-kennedy.github.io/pricing-tables/"> Pricing Tables </a> 🖥 </h1>
-<a href="https://carlos-kennedy.github.io/pricing-tables/" title="Pricing Tables"> <img src="https://i.imgur.com/RJV1KoI.png" /></a>
+<a href="https://carlos-kennedy.github.io/pricing-tables/" title="Pricing Tables"> <img src="https://i.imgur.com/lmCGZwq.gif" alt="Imagem do projeto pricing tables" /></a>
 <p> Projeto desenvolvido para <strong> consultar tabelas de preços </strong>, foi feito apartir dos desafios do <a href="https://app.rocketseat.com.br/discover/challenges"> Discover </a> </p>
 <hr>
 
