@@ -148,7 +148,7 @@ header.title-plans::before {
 .wrapper .card:nth-child(2) header {
   padding-inline: 3rem;
   padding-block: 2.5rem;
-  margin-top: -3.5rem;
+  margin-top: -3.1rem;
   margin-inline: -2.9rem;
   background: var(--card-hover);
 
